@@ -1,6 +1,6 @@
 # Hi, I'm Lucas García Bertaina!
 
-**Full Stack Web Developer** :computer:
+**Developer** :computer:
 
 ## :bust_in_silhouette: A little more about me...
 ```python
