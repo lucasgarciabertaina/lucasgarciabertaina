@@ -6,6 +6,6 @@
 ```javascript
 const lucas = {
   code: ['Javascript','TypeScript, 'HTML', 'CSS', 'Python'],
-  tools': ['Django','Node','Vuejs','Vuex','Nuxt','Express', 'Serverless', 'Mongo', 'MySQL', 'PostgreSQL'],
+  tools': ['Django','Node','React','Vuejs','Vuex','Nuxt','Express', 'Serverless', 'Mongo', 'MySQL', 'PostgreSQL'],
 }
 ```
