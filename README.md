@@ -1,6 +1,6 @@
 # Hi, I'm Lucas García Bertaina!
 
-**Bakcend Developer** :computer:
+**Backend Developer** :computer:
 
 ## :bust_in_silhouette: A little more about me...
 ```javascript
